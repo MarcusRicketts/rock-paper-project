@@ -10,11 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/MarcusRicketts/rock-paper-project.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MarcusRicketts/rock-paper-project/issues"
   },
-  "homepage": "https://github.com/MarcusRicketts/rock-paper-project#readme"
+  "homepage": "https://github.com/MarcusRicketts/rock-paper-project#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
